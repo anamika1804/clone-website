@@ -1,0 +1,22 @@
+/* /styles/globals.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: white;
+  font-family: sans-serif;
+  padding-left: 10;
+  padding-left: 1rem; /* Adjust value as needed */
+  padding-right: 1rem;
+  margin: 0; /* Reset margin to avoid extra space */
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1200px; /* Optional: Limit width for larger screens */
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
