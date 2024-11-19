@@ -1,6 +1,7 @@
-# OneLot Clone
+![Onelot-demo-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/3cc4f215-df67-4a3b-bd2b-d0595f7b846f)# OneLot Clone
 
-![OneLot Clone Demo](https://link-to-your-gif.gif)
+![OneLot Clone Demo]![Onelot-demo](https://github.com/user-attachments/assets/96898ee1-b7f0-4c47-9cd4-0f641f465dae)
+
 
 This is a clone of the **OneLot** website, created as part of a personal project. The application mimics the core functionalities and layout of OneLot, providing an interface similar to the original.
 
