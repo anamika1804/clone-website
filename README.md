@@ -1,6 +1,10 @@
 # OneLot Clone
 
-![OneLot Clone Demo]![Onelot-demo](https://github.com/user-attachments/assets/96898ee1-b7f0-4c47-9cd4-0f641f465dae)
+
+
+
+https://github.com/user-attachments/assets/6762662d-d5b2-4097-a251-32419c924aa3
+
 
 
 This is a clone of the **OneLot** website, created as part of a personal project. The application mimics the core functionalities and layout of OneLot, providing an interface similar to the original.
